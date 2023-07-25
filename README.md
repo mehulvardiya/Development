@@ -1,2 +1,2 @@
-# development
+# Development
 Expense Tracker App
